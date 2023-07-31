@@ -1,2 +1,2 @@
 # codes
-just stuff i did as im learning python.
+just stuff im practising as im learning python.
